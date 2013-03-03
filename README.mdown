@@ -42,8 +42,8 @@ Dale Carnegie, emphasizes the value of names in his book *How to Win Friends and
 * Look for ways to add network effects. Per Fred Wilson: Networks beat utilities when everyone is connected to everyone else. bit.ly/yb6rYU
 
 ###Competition
-[Brewster](https://www.brewster.com/). Looks similar but it's overkill, it only runs on the iPhone, and it's free. How do they make money?  They're backed by Fred Wilson and his crew. NameGame is different because it's simple (focused only on LinkedIn) and it's a game.
-[Full Contact](http://www.fullcontact.com/). An API for devs who write address book apps. We're different because we offer a game, and we're targeting a different market (business people).
+* [Brewster](https://www.brewster.com/). Looks similar but it's overkill, it only runs on the iPhone, and it's free. How do they make money?  They're backed by Fred Wilson and his crew. NameGame is different because it's simple (focused only on LinkedIn) and it's a game.
+* [Full Contact](http://www.fullcontact.com/). An API for devs who write address book apps. We're different because we offer a game, and we're targeting a different market (business people).
 
 
 ###FAQs
