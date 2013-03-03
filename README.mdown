@@ -21,10 +21,10 @@ $2.99 introductory price on the iPad
 50% discount code available for a limited time during launch.
 
 ###Dale Carnegie Quote
-Dale Carnegie, author of *How to Win Friends and Influence People*, emphasizes the value of names in his book.
+Dale Carnegie, emphasizes the value of names in his book *How to Win Friends and Influence People*. 
 
-"A person's name is to him or her the sweetest and most important sound in any language."
-~Dale Carnegie
+>"A person's name is to him or her the sweetest and most important sound in any language."
+>~Dale Carnegie
 
 ###MVP Features
 * Pull photos & names from LinkedIn.
