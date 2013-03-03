@@ -1,4 +1,4 @@
-###Potential Marketing Slogans
+###Potential Marketing Slogans (for the splash screen?)
 Get better with names. Right now.
 NameGame has one purpose: To help you remember names.
 Remember the people you meet. 
@@ -23,19 +23,28 @@ Dale Carnegie, author of *How to Win Friends and Influence People*, emphasizes t
 ~Dale Carnegie
 
 ###MVP Features
-Pull photos & names from LinkedIn.
-Store connection info locally on the iOS device.
-Include a 1-page lesson on how to remember names & faces. Something from Harry Lorrayne?
-Use Justin Munger's "content, not chrome" examples for the NameGame GUI.
+* Pull photos & names from LinkedIn.
+* Store connection info locally on the iOS device.
+* Include a 1-page lesson on how to remember names & faces. Something from Harry Lorrayne?
+* Use Justin Munger's "content, not chrome" examples for the NameGame GUI.
+* Name and/or logo should appear on the screen at all times. Makes it easier for users to refer the app to others.
 
 ###Future Features
-Game center integration? Make it competitive!
-Tell friends (thru the app): I'm using iKnowYou to become a more effective networker.
-Create groups in LinkedIn. They're immediately reflected in the app. Before you go to an event, review the names/photos in that group.
-Add photos from sources outside of LinkedIn
-Add notes from sources outside of LinkedIn
-Show recent tweets for the connection.
-Show recent LinkedIn posts for the connection.
+* Game center integration? Make it competitive!
+* Tell friends (thru the app): I'm using iKnowYou to become a more effective networker.
+* Create groups in LinkedIn. They're immediately reflected in the app. Before you go to an event, review the names/photos in that group.
+* Add photos from sources outside of LinkedIn
+* Add notes from sources outside of LinkedIn
+* Show recent tweets for the connection.
+* Show recent LinkedIn posts for the connection.
+* Ratings request: Your 5-star review motivates further development (ripped from feedler). Options: Reviews the app, not 5-star yet, return to app.
+* Top apps are either games or they have a gaming element. What gaming features can we add to NameGame?
+* JIRA in-app messaging and automated crash reporting. Free iOS SDK.
+* Look for ways to add network effects. Per Fred Wilson: Networks beat utilities when everyone is connected to everyone else. bit.ly/yb6rYU
+
+###Competition
+[Brewster](https://www.brewster.com/). Looks similar but it's overkill, it only runs on the iPhone, and it's free. How do they make money?  They're backed by Fred Wilson and his crew. NameGame is different because it's simple (focused only on LinkedIn) and it's a game.
+[Full Contact](http://www.fullcontact.com/). An API for devs who write address book apps. We're different because we offer a game, and we're targeting a different market (business people).
 
 
 ###FAQs
