@@ -1,5 +1,9 @@
-###Marketing Slogan
+###Potential Marketing Slogans
 Get better with names. Right now.
+NameGame has one purpose: To help you remember names.
+Remember the people you meet. 
+As soon as you connect to someone on LinkedIn, they're part of your set of faces/names to remember.
+
 
 ###The Problem
 You meet a future client at a business event. You connect on LinkedIn.  Two weeks later you run into the prospect, but you can't remember their name! This scenario leads to embarassment and lost income.
@@ -17,6 +21,22 @@ Dale Carnegie, author of *How to Win Friends and Influence People*, emphasizes t
 
 "A person's name is to him or her the sweetest and most important sound in any language."
 ~Dale Carnegie
+
+###MVP Features
+Pull photos & names from LinkedIn.
+Store connection info locally on the iOS device.
+Include a 1-page lesson on how to remember names & faces. Something from Harry Lorrayne?
+Use Justin Munger's "content, not chrome" examples for the NameGame GUI.
+
+###Future Features
+Game center integration? Make it competitive!
+Tell friends (thru the app): I'm using iKnowYou to become a more effective networker.
+Create groups in LinkedIn. They're immediately reflected in the app. Before you go to an event, review the names/photos in that group.
+Add photos from sources outside of LinkedIn
+Add notes from sources outside of LinkedIn
+Show recent tweets for the connection.
+Show recent LinkedIn posts for the connection.
+
 
 ###FAQs
 ####Will it Run on the iPhone?
