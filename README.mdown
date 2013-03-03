@@ -1,0 +1,23 @@
+###Marketing Slogan
+Get better with names. Right now.
+
+###The Problem
+You meet a future client at a business event. You connect on LinkedIn.  Two weeks later you run into the prospect, but you can't remember their name! This scenario leads to embarassment and lost income.
+
+###The Solution: Name Game
+NameGame is an iPad app that trains your brain to remember names and faces. The app pulls from your LinkedIn connections, so there is no extra work for you to do. All you have to do is log in with your LinkedIn userid and password. The app will store photos and names locally on your device, so you can practive with the app offline. After you sync with LinkedIn, you only need to connect to the web for updates.
+
+###Cost 
+$2.99 introductory price on the iPad
+
+50% discount code available for a limited time during launch.
+
+###Dale Carnegie Quote
+Dale Carnegie, author of *How to Win Friends and Influence People*, emphasizes the value of names in his book.
+
+"A person's name is to him or her the sweetest and most important sound in any language."
+~Dale Carnegie
+
+###FAQs
+####Will it Run on the iPhone?
+An iPhone version is in the works. We chose to start with the iPad first because this is a very visual app. 
